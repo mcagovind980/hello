@@ -3,7 +3,7 @@
 #generic method
 class Addition<T>
 {
-t a,b,z;
+T a,b,z;
 void sum(Number a,Number b)
 {
 Integer z=a.intValue() + b.intValue();
